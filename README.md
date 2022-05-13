@@ -112,3 +112,8 @@ Finally, in 2021 <b>USA</b> had the highest number of billionaires across the wo
 Forbes, 2021, <i>Forbes Billionaires – Version 1</i>, https://www.kaggle.com/roysouravcu/forbes-billionaires-of-2021<br></br>
 Forbes, 2021, <i>Forbes Billionaires – Version 2</i>, https://www.kaggle.com/alexanderbader/forbes-billionaires-2021-30/version/3<br></br>
 Forbes, 2021, <i>Forbes Real-Time Billionaires</i>, https://www.forbes.com/real-time-billionaires/#178d85b83d78
+
+## Heroku deployment:
+
+https://billionaires-app-ah.herokuapp.com/
+
